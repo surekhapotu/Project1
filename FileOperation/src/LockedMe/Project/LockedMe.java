@@ -19,7 +19,7 @@ import java.util.Scanner;
 			 int choice=0;
 			 System.out.println("MAIN MENU");
 			 System.out.println("Select the Options Given Below:");
-			 System.out.println("1. Retrieve All Files inside Main Folder");
+			 System.out.println("1. Retrieve All Files inside Main2 Folder");
 			 System.out.println("2. Perform File Operations");
 			 System.out.println("3. Exit\n");
 			 Scanner sc = new Scanner(System.in);
